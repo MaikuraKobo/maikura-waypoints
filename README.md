@@ -35,4 +35,4 @@ Minecraft Fabric 1.21.11 用のウェイポイントMODです。
 - Fabric
 
 ## ライセンス
-MIT License
+All Rights Reserved (ARR)
