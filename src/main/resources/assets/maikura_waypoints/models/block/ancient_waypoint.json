@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "maikura_waypoints:block/ancient_waypoint_top",
+    "down": "maikura_waypoints:block/ancient_waypoint_bottom",
+    "north": "maikura_waypoints:block/ancient_waypoint_side",
+    "south": "maikura_waypoints:block/ancient_waypoint_side",
+    "east": "maikura_waypoints:block/ancient_waypoint_side",
+    "west": "maikura_waypoints:block/ancient_waypoint_side",
+    "particle": "maikura_waypoints:block/ancient_waypoint_side"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "block.maikura_waypoints.waypoint": "Waypoint",
+  "item.maikura_waypoints.waypoint": "Waypoint",
+  "block.maikura_waypoints.ancient_waypoint": "Ancient Waypoint",
+  "item.maikura_waypoints.ancient_waypoint": "Ancient Waypoint",
+  "block.maikura_waypoints.inactive_ancient_waypoint": "Inactive Ancient Waypoint",
+  "item.maikura_waypoints.inactive_ancient_waypoint": "Inactive Ancient Waypoint",
+  "item.maikura_waypoints.return_crystal": "Return Crystal",
+  "block.maikura_waypoints.stopped_waypoint": "Stopped Waypoint",
+  "item.maikura_waypoints.stopped_waypoint": "Stopped Waypoint"
+}

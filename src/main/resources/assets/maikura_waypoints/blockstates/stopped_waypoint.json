@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "maikura_waypoints:block/stopped_waypoint"
+    }
+  }
+}

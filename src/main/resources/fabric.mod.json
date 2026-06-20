@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "maikura_waypoints",
+  "version": "${version}",
+  "name": "Maikura Waypoints",
+  "description": "舞倉工房のシンプルなウェイポイントMOD。ホーム設定、ウェイポイント間ワープ、帰還クリスタル、古代ウェイポイントの封印と不活性建材化に対応します。",
+  "authors": [
+    "舞倉工房 / MAIKURA KOBO"
+  ],
+  "license": "ARR",
+  "icon": "assets/maikura_waypoints/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "jp.exnakamura.maikurawaypoints.MaikuraWaypointsMod"
+    ],
+    "client": [
+      "jp.exnakamura.maikurawaypoints.MaikuraWaypointsClient"
+    ],
+    "modmenu": [
+      "jp.exnakamura.maikurawaypoints.MaikuraWaypointsModMenu"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  },
+  "mixins": [
+    "maikura_waypoints.mixins.json"
+  ]
+}

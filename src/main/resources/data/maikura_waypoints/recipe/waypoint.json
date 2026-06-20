@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PEP", "RNR", "CSC"],
+  "key": {
+    "P": "minecraft:ender_pearl",
+    "E": "minecraft:ender_eye",
+    "R": "minecraft:echo_shard",
+    "N": "minecraft:netherite_block",
+    "C": "minecraft:crying_obsidian",
+    "S": "minecraft:nether_star"
+  },
+  "result": { "id": "maikura_waypoints:waypoint", "count": 1 }
+}

@@ -1,0 +1,14 @@
+{
+  "block.maikura_waypoints.waypoint": "ウェイポイント",
+  "item.maikura_waypoints.waypoint": "ウェイポイント",
+  "block.maikura_waypoints.ancient_waypoint": "古代ウェイポイント",
+  "item.maikura_waypoints.ancient_waypoint": "古代ウェイポイント",
+  "block.maikura_waypoints.inactive_ancient_waypoint": "不活性古代ウェイポイント",
+  "item.maikura_waypoints.inactive_ancient_waypoint": "不活性古代ウェイポイント",
+  "block.maikura_waypoints.stopped_waypoint": "停止したウェイポイント",
+  "item.maikura_waypoints.stopped_waypoint": "停止したウェイポイント",
+  "item.maikura_waypoints.return_crystal": "帰還クリスタル",
+  "itemGroup.maikura_waypoints": "Maikura Waypoints",
+  "item.maikura_waypoints.ancient_waypoint.desc": "泣く黒曜石で封印すると、その力は失われる",
+  "item.maikura_waypoints.inactive_ancient_waypoint.desc": "ワープ機能は失われている。破壊回収可能"
+}

@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "maikura_waypoints:item/return_crystal" }
+}

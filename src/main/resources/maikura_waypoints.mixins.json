@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "jp.exnakamura.maikurawaypoints.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ReturnCrystalCraftingSlotMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "maikura_waypoints:item/return_crystal"
+  }
+}

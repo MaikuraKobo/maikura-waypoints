@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "maikura_waypoints:block/inactive_ancient_waypoint"
+    }
+  }
+}
